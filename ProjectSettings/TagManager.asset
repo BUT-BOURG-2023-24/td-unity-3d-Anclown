@@ -7,6 +7,8 @@ TagManager:
   - Cube
   - Ground
   - Damager
+  - PlayerAmmo
+  - Enemy
   layers:
   - Default
   - TransparentFX
@@ -15,10 +17,10 @@ TagManager:
   - Water
   - UI
   - Ground
-  - 
-  - 
-  - 
-  - 
+  - Obstacle
+  - Player
+  - Enemy
+  - Explosion
   - 
   - 
   - 
